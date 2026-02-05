@@ -30,7 +30,7 @@ export const StoryApp: React.FC = () => {
         {/* Background Image with Overlay */}
         <div className="absolute inset-0 z-0">
             <img 
-                src="https://images.unsplash.com/photo-1596325066347-6b45398d5a77?q=80&w=2548&auto=format&fit=crop" 
+                src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jeffrey_Epstein%2C_27.jpg" 
                 alt="Ocean" 
                 className="w-full h-full object-cover opacity-40 grayscale-[50%]"
             />
@@ -81,7 +81,7 @@ export const StoryApp: React.FC = () => {
                 <div className="absolute -inset-4 bg-gradient-to-tr from-yellow-500/10 to-transparent rounded-full blur-3xl"></div>
                 <div className="relative bg-[#111] border border-white/10 rounded-xl overflow-hidden shadow-2xl group">
                     <img 
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jeffrey_Epstein_mugshot_2006.jpg/220px-Jeffrey_Epstein_mugshot_2006.jpg" 
+                        src="https://upload.wikimedia.org/wikipedia/commons/6/62/Jeffrey_Epstein_mug_shot.jpg" 
                         alt="Young Epstein" 
                         className="w-full h-full object-cover grayscale opacity-60 mix-blend-luminosity hover:opacity-80 transition-opacity duration-700"
                     />
