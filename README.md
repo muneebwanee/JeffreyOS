@@ -1,7 +1,18 @@
+<div align="center">
+
 # JeffreyOS
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/muneebwanee/JeffreyOS)
+
+[ʟ ɪ ᴠ ᴇ  -  ᴘ ʀ ᴇ ᴠ ɪ ᴇ ᴡ](https://JeffreyOS.Pages.Dev)
+
+![System Status](https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux)
+![Build](https://img.shields.io/badge/BUILD-v1.0.0-blueviolet?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-blue?style=for-the-badge)
+
+---
 
 JeffreyOS is a meticulously crafted digital experience simulating the personal operating system of Jeffrey Epstein. This project is a web-based, high-fidelity OS simulation that runs entirely in your browser.
+
+---
 
 ## Overview
 
